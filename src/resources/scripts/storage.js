@@ -14,12 +14,7 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBp30y30iWO0CW6RBa0OenKL9mLc40o2Ps",
-  authDomain: "movielist-3b38e.firebaseapp.com",
-  projectId: "movielist-3b38e",
-  storageBucket: "movielist-3b38e.firebasestorage.app",
-  messagingSenderId: "307630361968",
-  appId: "1:307630361968:web:5105ea173efe808e4313b5",
+  // Свой конфиг из сервиса console.firebase
 };
 
 export function createStorage(key) {
