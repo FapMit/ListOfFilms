@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Список фильмов - MovieApp</h1>
+<h1 align="center">Список фильмов - ListOfilms</h1>
 
 ###
 
