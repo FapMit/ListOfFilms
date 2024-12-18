@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="./assets/fapmit.github.io_ListOfFilms-preview_.jpg" alt="preview" width="650px" height="560px"/>
+  <img src="(https://i.ibb.co/pW7mFy1/fapmit-github-io-List-Of-Films-preview.jpg" alt="preview" width="650px" height="560px"/>
 </div>
 
 ###
