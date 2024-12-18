@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <a href="[https://console.firebase.google.com/u/0/](https://fapmit.github.io/ListOfFilms-preview/)" target="_blank" >Ссылка на предпросмотр проекта</a>
+  <a href="https://fapmit.github.io/ListOfFilms-preview/" target="_blank" >Ссылка на предпросмотр проекта</a>
 </div>
 
 ###
