@@ -22,9 +22,9 @@ html, body {
   background: var(--dark-color);
   background-image: linear-gradient(to right, #333 1px, transparent 1px), linear-gradient(to bottom, #333 1px, transparent 1px);
   background-size: 2vh 2vh;
-
-  /* Тест анимации height */
+  
   interpolate-size: allow-keywords;
+  scrollbar-gutter: stable;
 
 }
 
